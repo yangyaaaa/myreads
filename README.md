@@ -8,4 +8,7 @@ Books have the same state on both the search page and the main application page:
 
 This project was bootstrapped with Create React App, based on React version@18.2.0
 
-
+# How to use it?
+<ol>install all project dependencies with npm install</ol>
+<ol>
+start the development server with npm start</ol>
