@@ -7,6 +7,7 @@ The highlight of the App is the book state shelf.
 Books have the same state on both the search page and the main application page: If a book is on a bookshelf, that is reflected in both locations.
 
 This project was bootstrapped with Create React App, based on React version@18.2.0
+![app image](https://github.com/yangyaaaa/myreads/blob/master/Desktop/myreads/public/screen_shot2.png)
 
 # How to use it?
 <ol>install all project dependencies with npm install</ol>
