@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yangyaaaa.github.io/myreads/static/css/main.4449d022.css",
+    "main.js": "/yangyaaaa.github.io/myreads/static/js/main.cf632ba4.js",
+    "index.html": "/yangyaaaa.github.io/myreads/index.html",
+    "static/media/arrow-back.svg": "/yangyaaaa.github.io/myreads/static/media/arrow-back.a5021485fb0c38588ddd.svg",
+    "static/media/add.svg": "/yangyaaaa.github.io/myreads/static/media/add.6e31282db6f523b9d99d.svg",
+    "static/media/arrow-drop-down.svg": "/yangyaaaa.github.io/myreads/static/media/arrow-drop-down.ebf89ce29cc1f82c098b.svg",
+    "main.4449d022.css.map": "/yangyaaaa.github.io/myreads/static/css/main.4449d022.css.map",
+    "main.cf632ba4.js.map": "/yangyaaaa.github.io/myreads/static/js/main.cf632ba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4449d022.css",
+    "static/js/main.cf632ba4.js"
+  ]
+}
